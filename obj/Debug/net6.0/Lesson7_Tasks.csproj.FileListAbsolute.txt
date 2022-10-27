@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lesson7_Tasks\bin\Debug\net6.0\Lesson7_Tasks.exe
+C:\Users\User\Desktop\C#\Lesson7_Tasks\bin\Debug\net6.0\Lesson7_Tasks.deps.json
+C:\Users\User\Desktop\C#\Lesson7_Tasks\bin\Debug\net6.0\Lesson7_Tasks.runtimeconfig.json
+C:\Users\User\Desktop\C#\Lesson7_Tasks\bin\Debug\net6.0\Lesson7_Tasks.dll
+C:\Users\User\Desktop\C#\Lesson7_Tasks\bin\Debug\net6.0\Lesson7_Tasks.pdb
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.dll
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\refint\Lesson7_Tasks.dll
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.pdb
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\Lesson7_Tasks.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Lesson7_Tasks\obj\Debug\net6.0\ref\Lesson7_Tasks.dll
